@@ -5,6 +5,8 @@ __pycache__/
 
 config.py
 
+ds.store
+
 # C extensions
 *.so
 
